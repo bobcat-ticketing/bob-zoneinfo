@@ -1,0 +1,62 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://bitbucket.org/samtrafiken/bob-schema-tariff-zones/0.0.1/tariffzones.schema.json",
+  "title": "Tariff zone information",
+  "type": "object",
+  "required": [
+    "tariffZones"
+  ],
+  "properties": {
+    "tariffZones": {
+      "type": "array",
+      "items": {
+        "$ref": "#/components/schemas/tariffZone"
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "tariffZone": {
+        "type": "object",
+        "required": [
+          "name",
+          "geography"
+        ],
+        "properties": {
+          "id": {
+            "description": "Tariff zone identifier as defined in NeTEx",
+            "type": "string",
+            "example": "SE:050:TariffZone:6-9081006200000981"
+          },
+          "name": {
+            "description": "Local name as defined in NeTEx",
+            "type": "string",
+            "example": "Zone A"
+          },
+          "privateCode": {
+            "description": "A local or internal code or number for the tariff zone as defined in NeTEx",
+            "type": "string"
+          },
+          "groupId": {
+            "description": "Group ID as defined in the BoB Product API",
+            "type": "string",
+            "example": "1"
+          },
+          "geography": {
+            "$ref": "https://geojson.org/schema/FeatureCollection.json"
+          },
+          "validFrom": {
+            "description": "Date and time when tariff zone is valid from",
+            "type": "string",
+            "format": "date-time"
+          },
+          "validTo": {
+            "description": "Date and time when tariff zone is valid to",
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      }
+    }
+  }
+}
