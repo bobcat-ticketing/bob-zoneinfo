@@ -1,6 +1,6 @@
-# BoB Zone Information
+# BoB Tariff Zone Information
 
-This directory contains JSON schemas (in YAML) and examples (in JSON) for zone information.
+This directory contains JSON schemas and examples for tariffzone information.
 
 
 ## Dependencies
