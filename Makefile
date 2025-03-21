@@ -1,6 +1,7 @@
 SCHEMA_URL=	https://bob.samtrafiken.se/schemas/bob-schema-tariff-zones/1.0.0/tariff-zones.schema.json
 SCHEMA=		tariffzones.schema.json
-EXAMPLE=	tariffzones.example.json
+
+ZONES=		vasttrafik.json
 
 
 
@@ -16,7 +17,8 @@ check-schemas: $(SCHEMA)
 	@check-jsonschema --verbose --check-metaschema $(SCHEMA)
 
 check-examples: $(SCHEMA) $(EXAMPLE)
-	check-jsonschema --verbose --schemafile $(SCHEMA) $(EXAMPLE)
+	check-jsonschema --verbose --schemafile $(SCHEMA) $(ZONES)
 
 clean:
-	rm -f tariffzones.schema.yaml tariffzones.schema.json
+	rm -f $(SCHEMA)
+

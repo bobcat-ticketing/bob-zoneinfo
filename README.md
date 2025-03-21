@@ -16,4 +16,4 @@ The `Makefile` can be used to check schema syntax as well as verify that the exa
 
 Paste output from the command below to https://geojson.io/
 
-    jq '.tariffZones[] | select(.id=="Z3001").geography'  < tariffzones.example.json
+    jq '.tariffZones[] | select(.id=="Z3001").geography'  < vasttrafik.json
