@@ -1,7 +1,7 @@
 SCHEMA_URL=	https://bob.samtrafiken.se/schemas/bob-schema-tariff-zones/1.0.0/tariff-zones.schema.json
 SCHEMA=		tariffzones.schema.json
 
-ZONES=		vasttrafik.json
+ZONES=		vasttrafik.json hallandstrafiken.json
 
 
 
