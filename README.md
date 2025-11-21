@@ -12,6 +12,11 @@ The `Makefile` can be used to check schema syntax as well as verify that the exa
 
 
 
+## Schema
+
+- [Tariff zones JSON schema](https://bob.samtrafiken.se/schemas/bob-schema-tariff-zones/1.0.0/tariff-zones.schema.json)
+
+
 ## Example map
 
 Paste output from the commands below to https://geojson.io/
