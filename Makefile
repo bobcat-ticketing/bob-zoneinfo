@@ -1,7 +1,8 @@
 SCHEMA_URL=	https://bob.samtrafiken.se/schemas/bob-schema-tariff-zones/1.0.0/tariff-zones.schema.json
 SCHEMA=		tariffzones.schema.json
 
-ZONES=		vasttrafik.json hallandstrafiken.json
+ZONES=		vasttrafik.json hallandstrafiken.json kalmar.json
+GEOJSON=	vasttrafik.geojson hallandstrafiken.geojson kalmar.geojson
 
 
 
@@ -19,6 +20,11 @@ check-schemas: $(SCHEMA)
 check-examples: $(SCHEMA) $(EXAMPLE)
 	check-jsonschema --verbose --schemafile $(SCHEMA) $(ZONES)
 
+%.geojson: %.json
+	python zoneinfo2geojson.py --output $@ $<
+
+geojson: $(GEOJSON)
+
 clean:
 	rm -f $(SCHEMA)
-
+	rm -f *.geojson
