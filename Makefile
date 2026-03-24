@@ -5,6 +5,7 @@ ZONES=		vasttrafik.json hallandstrafiken.json kalmar.json
 GEOJSON=	vasttrafik.geojson hallandstrafiken.geojson kalmar.geojson
 
 
+all: check geojson
 
 check: check-schemas check-examples
 
