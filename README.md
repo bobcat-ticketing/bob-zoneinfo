@@ -21,6 +21,10 @@ The BoB Tariff Zone is maintained by [Samtrafiken](https://www.samtrafiken.se) a
 
 Pre-generated maps for all examples can be found in the `*.geojson` files and can be viewed using [GeoJSON.io](https://geojson.io/).
 
+- [Hallandstrafiken](https://geojson.io/#id=github:bobcat-ticketing/bob-zoneinfo/blob/main/hallandstrafiken.geojson)
+- [Kalmar länstrafik](https://geojson.io/#id=github:bobcat-ticketing/bob-zoneinfo/blob/main/kalmar.geojson)
+- [Västtrafik](https://geojson.io/#id=github:bobcat-ticketing/bob-zoneinfo/blob/main/vasttrafik.geojson)
+
 
 ### Maps for specific zones
 
