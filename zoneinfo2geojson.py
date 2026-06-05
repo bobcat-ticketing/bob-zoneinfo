@@ -1,4 +1,4 @@
-"""Create GeoJSON map from BoB BoB Tariff Zone Information"""
+"""Create GeoJSON map from BoB Tariff Zone Information"""
 
 import argparse
 import json
