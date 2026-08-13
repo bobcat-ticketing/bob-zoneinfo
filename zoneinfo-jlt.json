@@ -1,7 +1,7 @@
 {
     "$schema": "https://bob.samtrafiken.se/schemas/bob-schema-tariff-zones/1.0.0/tariff-zones.schema.json",
     "generated_by": "jlt.bobcat-ticketing.se",
-    "generated_at": "2026-04-09T07:03:51.481102+00:00",
+    "generated_at": "2026-08-13T08:25:38.874173+00:00",
     "tariffZones": [
         {
             "id": "181",
@@ -3420,7 +3420,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 181"
+                            "name": "Zon 181",
+                            "zones": [
+                                181
+                            ]
                         }
                     }
                 ]
@@ -6971,7 +6974,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 182"
+                            "name": "Zon 182",
+                            "zones": [
+                                182
+                            ]
                         }
                     }
                 ]
@@ -7978,7 +7984,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 183"
+                            "name": "Zon 183",
+                            "zones": [
+                                183
+                            ]
                         }
                     }
                 ]
@@ -11173,7 +11182,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 184"
+                            "name": "Zon 184",
+                            "zones": [
+                                184
+                            ]
                         }
                     }
                 ]
@@ -20784,7 +20796,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 185"
+                            "name": "Zon 185",
+                            "zones": [
+                                185
+                            ]
                         }
                     }
                 ]
@@ -34783,7 +34798,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 186"
+                            "name": "Zon 186",
+                            "zones": [
+                                186
+                            ]
                         }
                     }
                 ]
@@ -46674,7 +46692,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 187"
+                            "name": "Zon 187",
+                            "zones": [
+                                187
+                            ]
                         }
                     }
                 ]
@@ -50221,7 +50242,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 188"
+                            "name": "Zon 188",
+                            "zones": [
+                                188
+                            ]
                         }
                     }
                 ]

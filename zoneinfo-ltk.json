@@ -1,7 +1,7 @@
 {
     "$schema": "https://bob.samtrafiken.se/schemas/bob-schema-tariff-zones/1.0.0/tariff-zones.schema.json",
     "generated_by": "ltk2zoneinfo.bobcat-ticketing.se",
-    "generated_at": "2026-06-24T06:11:49.978025+00:00",
+    "generated_at": "2026-08-13T08:25:38.567785+00:00",
     "tariffZones": [
         {
             "id": "701",
@@ -216,7 +216,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 701"
+                            "name": "Zon 701",
+                            "zones": [
+                                701
+                            ]
                         }
                     }
                 ]
@@ -419,7 +422,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 702"
+                            "name": "Zon 702",
+                            "zones": [
+                                702
+                            ]
                         }
                     }
                 ]
@@ -598,7 +604,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 703"
+                            "name": "Zon 703",
+                            "zones": [
+                                703
+                            ]
                         }
                     }
                 ]
@@ -1309,7 +1318,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 704"
+                            "name": "Zon 704",
+                            "zones": [
+                                704
+                            ]
                         }
                     }
                 ]
@@ -1492,7 +1504,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 705"
+                            "name": "Zon 705",
+                            "zones": [
+                                705
+                            ]
                         }
                     }
                 ]
@@ -1571,7 +1586,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 706"
+                            "name": "Zon 706",
+                            "zones": [
+                                706
+                            ]
                         }
                     }
                 ]
@@ -1954,7 +1972,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 707"
+                            "name": "Zon 707",
+                            "zones": [
+                                707
+                            ]
                         }
                     }
                 ]
@@ -2033,7 +2054,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 708"
+                            "name": "Zon 708",
+                            "zones": [
+                                708
+                            ]
                         }
                     }
                 ]
@@ -2172,7 +2196,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 709"
+                            "name": "Zon 709",
+                            "zones": [
+                                709
+                            ]
                         }
                     }
                 ]
@@ -2339,7 +2366,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 710"
+                            "name": "Zon 710",
+                            "zones": [
+                                710
+                            ]
                         }
                     }
                 ]
@@ -2562,7 +2592,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 711"
+                            "name": "Zon 711",
+                            "zones": [
+                                711
+                            ]
                         }
                     }
                 ]
@@ -2721,7 +2754,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 712"
+                            "name": "Zon 712",
+                            "zones": [
+                                712
+                            ]
                         }
                     }
                 ]
@@ -3040,7 +3076,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 713"
+                            "name": "Zon 713",
+                            "zones": [
+                                713
+                            ]
                         }
                     }
                 ]
@@ -3235,7 +3274,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 716"
+                            "name": "Zon 716",
+                            "zones": [
+                                716
+                            ]
                         }
                     }
                 ]
@@ -3370,7 +3412,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 718"
+                            "name": "Zon 718",
+                            "zones": [
+                                718
+                            ]
                         }
                     }
                 ]
@@ -3585,7 +3630,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 719"
+                            "name": "Zon 719",
+                            "zones": [
+                                719
+                            ]
                         }
                     }
                 ]
@@ -3984,7 +4032,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 720"
+                            "name": "Zon 720",
+                            "zones": [
+                                720
+                            ]
                         }
                     }
                 ]
@@ -4263,7 +4314,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 721"
+                            "name": "Zon 721",
+                            "zones": [
+                                721
+                            ]
                         }
                     }
                 ]
@@ -4370,7 +4424,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 722"
+                            "name": "Zon 722",
+                            "zones": [
+                                722
+                            ]
                         }
                     }
                 ]
@@ -4593,7 +4650,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 723"
+                            "name": "Zon 723",
+                            "zones": [
+                                723
+                            ]
                         }
                     }
                 ]
@@ -4688,7 +4748,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 725"
+                            "name": "Zon 725",
+                            "zones": [
+                                725
+                            ]
                         }
                     }
                 ]
@@ -4755,7 +4818,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 726"
+                            "name": "Zon 726",
+                            "zones": [
+                                726
+                            ]
                         }
                     }
                 ]
@@ -4842,7 +4908,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 727"
+                            "name": "Zon 727",
+                            "zones": [
+                                727
+                            ]
                         }
                     }
                 ]
@@ -5133,7 +5202,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 728"
+                            "name": "Zon 728",
+                            "zones": [
+                                728
+                            ]
                         }
                     }
                 ]
@@ -6260,7 +6332,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 730"
+                            "name": "Zon 730",
+                            "zones": [
+                                730
+                            ]
                         }
                     }
                 ]
@@ -6347,7 +6422,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 731"
+                            "name": "Zon 731",
+                            "zones": [
+                                731
+                            ]
                         }
                     }
                 ]
@@ -7226,7 +7304,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 732"
+                            "name": "Zon 732",
+                            "zones": [
+                                732
+                            ]
                         }
                     }
                 ]
@@ -8125,7 +8206,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 733"
+                            "name": "Zon 733",
+                            "zones": [
+                                733
+                            ]
                         }
                     }
                 ]
@@ -8240,7 +8324,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 734"
+                            "name": "Zon 734",
+                            "zones": [
+                                734
+                            ]
                         }
                     }
                 ]
@@ -8327,7 +8414,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 735"
+                            "name": "Zon 735",
+                            "zones": [
+                                735
+                            ]
                         }
                     }
                 ]
@@ -8426,7 +8516,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 736"
+                            "name": "Zon 736",
+                            "zones": [
+                                736
+                            ]
                         }
                     }
                 ]
@@ -8637,7 +8730,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 737"
+                            "name": "Zon 737",
+                            "zones": [
+                                737
+                            ]
                         }
                     }
                 ]
@@ -8976,7 +9072,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 738"
+                            "name": "Zon 738",
+                            "zones": [
+                                738
+                            ]
                         }
                     }
                 ]
@@ -9163,7 +9262,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 740"
+                            "name": "Zon 740",
+                            "zones": [
+                                740
+                            ]
                         }
                     }
                 ]
@@ -9238,7 +9340,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 741"
+                            "name": "Zon 741",
+                            "zones": [
+                                741
+                            ]
                         }
                     }
                 ]
@@ -9345,7 +9450,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 742"
+                            "name": "Zon 742",
+                            "zones": [
+                                742
+                            ]
                         }
                     }
                 ]
@@ -9480,7 +9588,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 743"
+                            "name": "Zon 743",
+                            "zones": [
+                                743
+                            ]
                         }
                     }
                 ]
@@ -9575,7 +9686,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 744"
+                            "name": "Zon 744",
+                            "zones": [
+                                744
+                            ]
                         }
                     }
                 ]
@@ -9642,7 +9756,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 745"
+                            "name": "Zon 745",
+                            "zones": [
+                                745
+                            ]
                         }
                     }
                 ]
@@ -9757,7 +9874,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 747"
+                            "name": "Zon 747",
+                            "zones": [
+                                747
+                            ]
                         }
                     }
                 ]
@@ -10064,7 +10184,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 748"
+                            "name": "Zon 748",
+                            "zones": [
+                                748
+                            ]
                         }
                     }
                 ]
@@ -10139,7 +10262,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 749"
+                            "name": "Zon 749",
+                            "zones": [
+                                749
+                            ]
                         }
                     }
                 ]
@@ -10290,7 +10416,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 750"
+                            "name": "Zon 750",
+                            "zones": [
+                                750
+                            ]
                         }
                     }
                 ]
@@ -11141,7 +11270,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 751"
+                            "name": "Zon 751",
+                            "zones": [
+                                751
+                            ]
                         }
                     }
                 ]
@@ -11220,7 +11352,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 752"
+                            "name": "Zon 752",
+                            "zones": [
+                                752
+                            ]
                         }
                     }
                 ]
@@ -11351,7 +11486,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 753"
+                            "name": "Zon 753",
+                            "zones": [
+                                753
+                            ]
                         }
                     }
                 ]
@@ -11666,7 +11804,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 754"
+                            "name": "Zon 754",
+                            "zones": [
+                                754
+                            ]
                         }
                     }
                 ]
@@ -12245,7 +12386,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 755"
+                            "name": "Zon 755",
+                            "zones": [
+                                755
+                            ]
                         }
                     }
                 ]
@@ -12312,7 +12456,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 756"
+                            "name": "Zon 756",
+                            "zones": [
+                                756
+                            ]
                         }
                     }
                 ]
@@ -12443,7 +12590,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 757"
+                            "name": "Zon 757",
+                            "zones": [
+                                757
+                            ]
                         }
                     }
                 ]
@@ -12706,7 +12856,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 759"
+                            "name": "Zon 759",
+                            "zones": [
+                                759
+                            ]
                         }
                     }
                 ]
@@ -13209,7 +13362,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 760"
+                            "name": "Zon 760",
+                            "zones": [
+                                760
+                            ]
                         }
                     }
                 ]
@@ -14320,7 +14476,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 761"
+                            "name": "Zon 761",
+                            "zones": [
+                                761
+                            ]
                         }
                     }
                 ]
@@ -15631,7 +15790,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 763"
+                            "name": "Zon 763",
+                            "zones": [
+                                763
+                            ]
                         }
                     }
                 ]
@@ -16022,7 +16184,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 765"
+                            "name": "Zon 765",
+                            "zones": [
+                                765
+                            ]
                         }
                     }
                 ]
@@ -16333,7 +16498,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 766"
+                            "name": "Zon 766",
+                            "zones": [
+                                766
+                            ]
                         }
                     }
                 ]
@@ -16444,7 +16612,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 767"
+                            "name": "Zon 767",
+                            "zones": [
+                                767
+                            ]
                         }
                     }
                 ]
@@ -16547,7 +16718,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 768"
+                            "name": "Zon 768",
+                            "zones": [
+                                768
+                            ]
                         }
                     }
                 ]
@@ -17166,7 +17340,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 769"
+                            "name": "Zon 769",
+                            "zones": [
+                                769
+                            ]
                         }
                     }
                 ]
@@ -18261,7 +18438,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 770"
+                            "name": "Zon 770",
+                            "zones": [
+                                770
+                            ]
                         }
                     }
                 ]
@@ -18928,7 +19108,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 771"
+                            "name": "Zon 771",
+                            "zones": [
+                                771
+                            ]
                         }
                     }
                 ]
@@ -20023,7 +20206,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 772"
+                            "name": "Zon 772",
+                            "zones": [
+                                772
+                            ]
                         }
                     }
                 ]
@@ -20094,7 +20280,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 775"
+                            "name": "Zon 775",
+                            "zones": [
+                                775
+                            ]
                         }
                     }
                 ]
@@ -20289,7 +20478,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 776"
+                            "name": "Zon 776",
+                            "zones": [
+                                776
+                            ]
                         }
                     }
                 ]
@@ -20468,7 +20660,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 777"
+                            "name": "Zon 777",
+                            "zones": [
+                                777
+                            ]
                         }
                     }
                 ]
@@ -20587,7 +20782,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 778"
+                            "name": "Zon 778",
+                            "zones": [
+                                778
+                            ]
                         }
                     }
                 ]
@@ -21762,7 +21960,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 779"
+                            "name": "Zon 779",
+                            "zones": [
+                                779
+                            ]
                         }
                     }
                 ]
@@ -22141,7 +22342,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 780"
+                            "name": "Zon 780",
+                            "zones": [
+                                780
+                            ]
                         }
                     }
                 ]
@@ -22264,7 +22468,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 781"
+                            "name": "Zon 781",
+                            "zones": [
+                                781
+                            ]
                         }
                     }
                 ]
@@ -22439,7 +22646,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 782"
+                            "name": "Zon 782",
+                            "zones": [
+                                782
+                            ]
                         }
                     }
                 ]
@@ -22850,7 +23060,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 783"
+                            "name": "Zon 783",
+                            "zones": [
+                                783
+                            ]
                         }
                     }
                 ]
@@ -23417,7 +23630,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 785"
+                            "name": "Zon 785",
+                            "zones": [
+                                785
+                            ]
                         }
                     }
                 ]
@@ -23636,7 +23852,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 786"
+                            "name": "Zon 786",
+                            "zones": [
+                                786
+                            ]
                         }
                     }
                 ]
@@ -23743,7 +23962,10 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 787"
+                            "name": "Zon 787",
+                            "zones": [
+                                787
+                            ]
                         }
                     }
                 ]
