@@ -1,19 +1,19 @@
 {
     "$schema": "https://bob.samtrafiken.se/schemas/bob-schema-tariff-zones/1.0.0/tariff-zones.schema.json",
     "generated_by": "jlt.bobcat-ticketing.se",
-    "generated_at": "2026-08-13T08:25:38.874173+00:00",
+    "generated_at": "2026-08-25T12:20:13.044534+00:00",
     "tariffZones": [
         {
-            "id": "181",
-            "tariffZoneId": "SE:050:TariffZone:14_9081014200000181",
-            "name": "Zon 181",
-            "gid": 9081014200000181,
-            "groupId": "181",
-            "privateCode": "14:181",
+            "id": "981",
+            "tariffZoneId": "SE:050:TariffZone:14_9081014200000981",
+            "name": "Zon 981",
+            "gid": 9081014200000981,
+            "groupId": "981",
+            "privateCode": "14:981",
             "geography": {
                 "type": "FeatureCollection",
                 "properties": {
-                    "id": "181"
+                    "id": "981"
                 },
                 "features": [
                     {
@@ -3420,9 +3420,9 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 181",
+                            "name": "Zon 981",
                             "zones": [
-                                181
+                                981
                             ]
                         }
                     }
@@ -3430,16 +3430,16 @@
             }
         },
         {
-            "id": "182",
-            "tariffZoneId": "SE:050:TariffZone:14_9081014200000182",
-            "name": "Zon 182",
-            "gid": 9081014200000182,
-            "groupId": "182",
-            "privateCode": "14:182",
+            "id": "982",
+            "tariffZoneId": "SE:050:TariffZone:14_9081014200000982",
+            "name": "Zon 982",
+            "gid": 9081014200000982,
+            "groupId": "982",
+            "privateCode": "14:982",
             "geography": {
                 "type": "FeatureCollection",
                 "properties": {
-                    "id": "182"
+                    "id": "982"
                 },
                 "features": [
                     {
@@ -6974,9 +6974,9 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 182",
+                            "name": "Zon 982",
                             "zones": [
-                                182
+                                982
                             ]
                         }
                     }
@@ -6984,16 +6984,16 @@
             }
         },
         {
-            "id": "183",
-            "tariffZoneId": "SE:050:TariffZone:14_9081014200000183",
-            "name": "Zon 183",
-            "gid": 9081014200000183,
-            "groupId": "183",
-            "privateCode": "14:183",
+            "id": "983",
+            "tariffZoneId": "SE:050:TariffZone:14_9081014200000983",
+            "name": "Zon 983",
+            "gid": 9081014200000983,
+            "groupId": "983",
+            "privateCode": "14:983",
             "geography": {
                 "type": "FeatureCollection",
                 "properties": {
-                    "id": "183"
+                    "id": "983"
                 },
                 "features": [
                     {
@@ -7984,9 +7984,9 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 183",
+                            "name": "Zon 983",
                             "zones": [
-                                183
+                                983
                             ]
                         }
                     }
@@ -7994,16 +7994,16 @@
             }
         },
         {
-            "id": "184",
-            "tariffZoneId": "SE:050:TariffZone:14_9081014200000184",
-            "name": "Zon 184",
-            "gid": 9081014200000184,
-            "groupId": "184",
-            "privateCode": "14:184",
+            "id": "984",
+            "tariffZoneId": "SE:050:TariffZone:14_9081014200000984",
+            "name": "Zon 984",
+            "gid": 9081014200000984,
+            "groupId": "984",
+            "privateCode": "14:984",
             "geography": {
                 "type": "FeatureCollection",
                 "properties": {
-                    "id": "184"
+                    "id": "984"
                 },
                 "features": [
                     {
@@ -11182,9 +11182,9 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 184",
+                            "name": "Zon 984",
                             "zones": [
-                                184
+                                984
                             ]
                         }
                     }
@@ -11192,16 +11192,16 @@
             }
         },
         {
-            "id": "185",
-            "tariffZoneId": "SE:050:TariffZone:14_9081014200000185",
-            "name": "Zon 185",
-            "gid": 9081014200000185,
-            "groupId": "185",
-            "privateCode": "14:185",
+            "id": "985",
+            "tariffZoneId": "SE:050:TariffZone:14_9081014200000985",
+            "name": "Zon 985",
+            "gid": 9081014200000985,
+            "groupId": "985",
+            "privateCode": "14:985",
             "geography": {
                 "type": "FeatureCollection",
                 "properties": {
-                    "id": "185"
+                    "id": "985"
                 },
                 "features": [
                     {
@@ -20796,9 +20796,9 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 185",
+                            "name": "Zon 985",
                             "zones": [
-                                185
+                                985
                             ]
                         }
                     }
@@ -20806,16 +20806,16 @@
             }
         },
         {
-            "id": "186",
-            "tariffZoneId": "SE:050:TariffZone:14_9081014200000186",
-            "name": "Zon 186",
-            "gid": 9081014200000186,
-            "groupId": "186",
-            "privateCode": "14:186",
+            "id": "986",
+            "tariffZoneId": "SE:050:TariffZone:14_9081014200000986",
+            "name": "Zon 986",
+            "gid": 9081014200000986,
+            "groupId": "986",
+            "privateCode": "14:986",
             "geography": {
                 "type": "FeatureCollection",
                 "properties": {
-                    "id": "186"
+                    "id": "986"
                 },
                 "features": [
                     {
@@ -34798,9 +34798,9 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 186",
+                            "name": "Zon 986",
                             "zones": [
-                                186
+                                986
                             ]
                         }
                     }
@@ -34808,16 +34808,16 @@
             }
         },
         {
-            "id": "187",
-            "tariffZoneId": "SE:050:TariffZone:14_9081014200000187",
-            "name": "Zon 187",
-            "gid": 9081014200000187,
-            "groupId": "187",
-            "privateCode": "14:187",
+            "id": "987",
+            "tariffZoneId": "SE:050:TariffZone:14_9081014200000987",
+            "name": "Zon 987",
+            "gid": 9081014200000987,
+            "groupId": "987",
+            "privateCode": "14:987",
             "geography": {
                 "type": "FeatureCollection",
                 "properties": {
-                    "id": "187"
+                    "id": "987"
                 },
                 "features": [
                     {
@@ -46692,9 +46692,9 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 187",
+                            "name": "Zon 987",
                             "zones": [
-                                187
+                                987
                             ]
                         }
                     }
@@ -46702,16 +46702,16 @@
             }
         },
         {
-            "id": "188",
-            "tariffZoneId": "SE:050:TariffZone:14_9081014200000188",
-            "name": "Zon 188",
-            "gid": 9081014200000188,
-            "groupId": "188",
-            "privateCode": "14:188",
+            "id": "988",
+            "tariffZoneId": "SE:050:TariffZone:14_9081014200000988",
+            "name": "Zon 988",
+            "gid": 9081014200000988,
+            "groupId": "988",
+            "privateCode": "14:988",
             "geography": {
                 "type": "FeatureCollection",
                 "properties": {
-                    "id": "188"
+                    "id": "988"
                 },
                 "features": [
                     {
@@ -50242,9 +50242,9 @@
                             ]
                         },
                         "properties": {
-                            "name": "Zon 188",
+                            "name": "Zon 988",
                             "zones": [
-                                188
+                                988
                             ]
                         }
                     }
